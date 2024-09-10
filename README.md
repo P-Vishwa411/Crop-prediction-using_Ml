@@ -31,8 +31,11 @@ The Crop Yield Prediction project demonstrates the potential of machine learning
 To run this project locally, follow these steps:
 
 Clone this repository.
+
 Install the required libraries using pip install  "-r requirements.txt."
+
 Run the Jupyter Notebook or Python script to train the model and make predictions.
+
 Usage
 After setting up the environment, use the provided Jupyter Notebook to explore the data, preprocess it, train the model, and evaluate its performance. You can adjust parameters and experiment with different models as needed.
 
