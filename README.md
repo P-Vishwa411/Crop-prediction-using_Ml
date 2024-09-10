@@ -10,6 +10,10 @@ The Crop Yield Prediction project focuses on developing a machine learning model
 
 The dataset used in this project includes various features that influence crop yield, such as weather conditions, soil properties, and farming practices. The data is preprocessed to handle missing values, normalize continuous variables, and encode categorical features to ensure the model's accuracy and reliability.
 
+
+### research paper :- ttps://www.researchgate.net/publication/372588665
+
+
 ## Methodology
 
 ### Data Preprocessing:
